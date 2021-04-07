@@ -1,0 +1,15 @@
+C:\Users\pedro\Documents\estagio\ProjetoEstágio\EM.Domain\bin\Debug\EM.Domain.dll
+C:\Users\pedro\Documents\estagio\ProjetoEstágio\EM.Domain\bin\Debug\EM.Domain.pdb
+C:\Users\pedro\Documents\estagio\ProjetoEstágio\EM.Domain\obj\Debug\EM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\estagio\ProjetoEstágio\EM.Domain\obj\Debug\EM.Domain.dll
+C:\Users\pedro\Documents\estagio\ProjetoEstágio\EM.Domain\obj\Debug\EM.Domain.pdb
+D:\WorkPedro\ProjetoEstágio\EM.Domain\bin\Debug\EM.Domain.dll
+D:\WorkPedro\ProjetoEstágio\EM.Domain\bin\Debug\EM.Domain.pdb
+D:\WorkPedro\ProjetoEstágio\EM.Domain\obj\Debug\EM.Domain.csproj.CoreCompileInputs.cache
+D:\WorkPedro\ProjetoEstágio\EM.Domain\obj\Debug\EM.Domain.dll
+D:\WorkPedro\ProjetoEstágio\EM.Domain\obj\Debug\EM.Domain.pdb
+C:\Users\pedro\Documents\ProjetoEstágio\EM.Domain\bin\Debug\EM.Domain.dll
+C:\Users\pedro\Documents\ProjetoEstágio\EM.Domain\bin\Debug\EM.Domain.pdb
+C:\Users\pedro\Documents\ProjetoEstágio\EM.Domain\obj\Debug\EM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\ProjetoEstágio\EM.Domain\obj\Debug\EM.Domain.dll
+C:\Users\pedro\Documents\ProjetoEstágio\EM.Domain\obj\Debug\EM.Domain.pdb
